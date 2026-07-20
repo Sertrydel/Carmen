@@ -79,10 +79,25 @@ main {
     margin: 60px 200px;
 }
 
-.carmen{
+.carmen {
     position: fixed;
     bottom: 20px;
     right: 20px;
     width: 100px;
     border-radius: 155px;
+}
+
+.next-page {
+    display: inline-block;
+    margin: 20px;
+    padding: 12px 20px;
+    background: #000;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.next-page:hover {
+    background: #8b1010;
 }
