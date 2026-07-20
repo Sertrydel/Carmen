@@ -101,3 +101,20 @@ main {
 .next-page:hover {
     background: #8b1010;
 }
+
+.share-btn{
+    display:block;
+    margin:30px auto;
+    padding:12px 24px;
+    background:#8b1010;
+    color:white;
+    border:none;
+    border-radius:5px;
+    cursor:pointer;
+    font-size:16px;
+    transition:0.3s;
+}
+
+.share-btn:hover{
+    background:#b51c1c;
+}
